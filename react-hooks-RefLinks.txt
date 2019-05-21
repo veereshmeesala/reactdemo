@@ -1,0 +1,31 @@
+https://medium.freecodecamp.org/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d
+
+https://medium.freecodecamp.org/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7
+
+https://www.telerik.com/blogs/everything-you-need-to-create-a-custom-react-hook
+
+https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d
+
+Everything you need to know about React Hooks / Carl Vitullo
+https://medium.com/@vcarl/everything-you-need-to-know-about-react-hooks-8f680dfd4349
+
+React Hooks tutorial series
+
+https://reactgo.com/react-usecontext-hook-tutorial/
+
+State management patterns using hooks
+https://medium.com/incremental-engineer/react-state-management-patterns-in-2019-847d24bd173
+
+
+use state example
+https://www.valentinog.com/blog/hooks/
+
+use state
+useEffect
+
+useContext example 
+https://medium.com/digio-australia/using-the-react-usecontext-hook-9f55461c4eae    
+https://frontarm.com/james-k-nelson/usecontext-react-hook/https://frontarm.com/james-k-nelson/usecontext-react-hook/
+
+React State with Hooks: useReducer, useState, useContext
+https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext/
